@@ -15,9 +15,11 @@
 
 - 📫 How to reach me **vanshikakumar1910@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGCZiVgHWk/t3VbLgeJgLpdHY-u-Nql7w/edit?utm_content=DAGCZiVgHWk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGCZiVgHWk/t3VbLgeJgLpdHY-u-Nql7w/edit?utm_content=DAGCZiVgHWk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [https://www.canva.com/design/DAGCZiVgHWk/t3VbLgeJgLpdHY-u-Nql7w/edit?utm_content=DAGCZiVgHWk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://shorturl.at/AuoyP)
 
 - ⚡ Fun fact **I am a Sage Code Hooter!**
+
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanshikaKumar1910)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
