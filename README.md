@@ -11,7 +11,6 @@
 - 📝 I regularly write articles on [https://vanshikakumar.hashnode.dev/](https://vanshikakumar.hashnode.dev/)
 - 💬 Ask me about **blockchain, python, tech-blogs**
 - 📫 How to reach me **vanshikakumar1910@gmail.com**
-- 📄 Know about my experiences [https://shorturl.at/AuoyP](https://shorturl.at/AuoyP)
 - ⚡ Fun fact **I am a Sage Code Hooter!**
 
 <h3 align="left">Connect with me:</h3>
