@@ -16,8 +16,6 @@
 - ✍️ Technical Writer @ GeeksforGeeks → 10,000+ reads on Python + system concepts
 - 💡 Passionate about automation architecture, agentic AI, distributed systems testing & devops tooling
 
-<br/>
-
 ## 🌱 Currently Learning
 
 - Agentic AI for Automation
