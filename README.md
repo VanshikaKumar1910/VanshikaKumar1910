@@ -54,7 +54,7 @@
 
 ---
 
-# 🧰 Tech Stack (Text Only)
+# 🧰 Tech Stack 
 
 ### 🖥️ Languages  
 - Java  
