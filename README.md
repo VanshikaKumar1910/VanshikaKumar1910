@@ -120,6 +120,11 @@ CLI tool for uploading & managing videos using JSON + SQLite
   <img src="https://raw.githubusercontent.com/VanshikaKumar1910/VanshikaKumar1910/main/output/github-contribution-grid-snake.svg" width="100%"/>
 </p>
 
+<p align="center">
+  <strong>2024 Contributions</strong><br/>
+  <img src="https://raw.githubusercontent.com/VanshikaKumar1910/VanshikaKumar1910/output/github-contribution-grid-snake-2024.svg" width="100%"/>
+</p>
+
 ---
 
 ## ✨ Fun Fact  
