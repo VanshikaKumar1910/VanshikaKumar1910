@@ -1,0 +1,31 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"   # Runs once every 24 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate Snake Animation
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: VanshikaKumar1910
+          outputs: |
+            ./output/github-contribution-grid-snake.svg
+            ./output/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push generated files
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: GitHub Actions
+          author_email: actions@github.com
+          message: "🐍 Update contribution snake"
+          add: "output/*"
