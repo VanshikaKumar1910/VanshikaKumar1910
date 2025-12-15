@@ -145,7 +145,7 @@ CLI system to upload, update & manage videos using JSON + SQLite
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VanshikaKumar1910/VanshikaKumar1910/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/VanshikaKumar1910/VanshikaKumar1910/main/output/github-contribution-grid-snake.svg" />
 </p>
 
 (If snake doesn’t load yet, I will generate the GitHub Action for you.)
