@@ -4,21 +4,23 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate 2024 Snake Animation
+      - name: Generate snake for 2024
         uses: Platane/snk@v3
         with:
           github_user_name: VanshikaKumar1910
           outputs: |
-            output/github-contribution-grid-snake-2024.svg?year=2024
+            output/snake-2024.svg
+          years: 2024
 
-      - name: Push 2024 snake to output folder
-        uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Push generated files
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Generate 2024 contribution snake"
+          commit_message: "Add 2024 contribution snake"
           file_pattern: output/*
