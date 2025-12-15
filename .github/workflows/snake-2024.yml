@@ -8,19 +8,27 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
-      - name: Generate snake for 2024
+      - name: Generate 2024 snake
         uses: Platane/snk@v3
         with:
           github_user_name: VanshikaKumar1910
           outputs: |
-            output/snake-2024.svg
-          years: 2024
+            output/github-contribution-grid-snake-2024.svg
 
-      - name: Push generated files
-        uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Pull latest
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "github-actions"
+          git pull origin main --rebase || true
+
+      - name: Push 2024 snake
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Add 2024 contribution snake"
+          commit_message: "Update 2024 contribution snake"
           file_pattern: output/*
+          push_options: '--force'
