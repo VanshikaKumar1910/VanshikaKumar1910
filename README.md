@@ -61,16 +61,16 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/vanshikakumar1710" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" style="margin: 0 15px;" />
   </a>
   <a href="https://hashnode.com/@vanshikakumar" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hashnode" width="45"/>
+    <img src="https://skillicons.dev/icons?i=hashnode" width="48" height="48" style="margin: 0 15px;" />
   </a>
   <a href="https://medium.com/@vanshikakumar1910" target="_blank">
-    <img src="https://skillicons.dev/icons?i=medium" width="45"/>
+    <img src="https://skillicons.dev/icons?i=medium" width="48" height="48" style="margin: 0 15px;" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/vanshikakkumar/contributions/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="45"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="48" height="48" style="margin: 0 15px;" />
   </a>
 </p>
 
@@ -147,8 +147,6 @@ CLI system to upload, update & manage videos using JSON + SQLite
 <p align="center">
   <img src="https://raw.githubusercontent.com/VanshikaKumar1910/VanshikaKumar1910/main/output/github-contribution-grid-snake.svg" />
 </p>
-
-(If snake doesn’t load yet, I will generate the GitHub Action for you.)
 
 ---
 
