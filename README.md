@@ -70,7 +70,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=selenium" width="48"/>
   <img src="https://skillicons.dev/icons?i=androidstudio" width="48"/>
+
+  <!-- FIXED TestNG Icon -->
   <img src="https://brandslogos.com/wp-content/uploads/images/large/testng-logo.png" width="48"/>
+
   <img src="https://skillicons.dev/icons?i=apache" width="48"/>
   <img src="https://skillicons.dev/icons?i=gradle" width="48"/>
 </p>
@@ -115,7 +118,7 @@ Manage uploads, metadata & playlists via JSON + SQLite
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=VanshikaKumar1910&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=VanshikaKumar1910&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=VanshikaKumar1910&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
