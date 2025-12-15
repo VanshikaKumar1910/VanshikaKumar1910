@@ -5,11 +5,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
-- 🔭 I'm currently working on **django and flask projects**
-- 🌱 I'm currently learning **django and advanced python for web-development**
+- 🔭 I'm currently working on **java and automation projects**
+- 🌱 I'm currently learning **Agentic AI and advanced python**
 - 👨‍💻 All of my projects are available at [https://github.com/VanshikaKumar1910](https://github.com/VanshikaKumar1910)
 - 📝 I regularly write articles on [https://vanshikakumar.hashnode.dev/](https://vanshikakumar.hashnode.dev/)
-- 💬 Ask me about **blockchain, python, tech-blogs**
+- 💬 Ask me about **AI, python, tech-blogs**
 - 📫 How to reach me **vanshikakumar1910@gmail.com**
 - ⚡ Fun fact **I am a Sage Code Hooter!**
 
